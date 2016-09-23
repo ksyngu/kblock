@@ -1,6 +1,5 @@
 
-**주의:** 본 문서는 **read-only mirror** of the formal [Gerrit](https://gerrit.hyperledger.org/r/#/admin/projects/fabric) repository,
-where active development is ongoing. Issue tracking is handled in [Jira](https://jira.hyperledger.org/secure/RapidBoard.jspa?projectKey=FAB&rapidView=5&view=planning)
+**주의:** 본 문서는 한국형 블록체인을 위한 것이다
 
 ## Incubation Notice
 
